@@ -10,6 +10,7 @@ body{
     background-color: skyblue;
 }
 nav{
+    z-index:999;
     position: sticky;
     top: 0;
     background-color: dodgerblue;
