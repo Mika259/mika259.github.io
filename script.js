@@ -2,10 +2,9 @@
 
 
 
-function cp(){
-    var text = window.location.href
-    navigator.clipboard.writeText(text.value)
+function cp(text){
+    navigator.clipboard.writeText(text)
 
-    window.alert("Copied url : "+text.value)
+    window.alert("Copied url : "+text)
 
     }
