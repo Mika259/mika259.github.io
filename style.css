@@ -90,7 +90,7 @@ section .content .img{
 
     /*Ubah ini background image saja*/
 
-    background-image: url(cmd-py.png);
+    background-image: url('cmd-py.png');
 
 
 
